@@ -1,0 +1,30 @@
+body {
+  font-family: monospace;
+}
+
+h1 {
+  margin-top: 2em;
+  text-align: center;
+  width: 600px;
+  margin-left: 350px;
+  border-bottom: solid black 10px;
+}
+
+#main {
+  position: absolute;
+  top: 120px;
+  left: 350px;
+}
+
+legend {
+  text-transform: uppercase;
+}
+
+label {
+  font-weight: bold;
+}
+
+.cadre {
+  color: red;
+  background-color: #c0c0ff;
+}
